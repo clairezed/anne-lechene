@@ -2,7 +2,7 @@
 title: Starter
 email: clairezuliani@gmail.com
 description: My own jekyll starter
-baseurl: "/starter" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
 url: "https://clairezed.github.io" # the base hostname & protocol for your site
 
 # Social settings ------------------------------------
