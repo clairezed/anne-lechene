@@ -1,0 +1,37 @@
+# Site settings -----------------------------------
+title: Starter
+email: clairezuliani@gmail.com
+description: My own jekyll starter
+baseurl: "/starter" # the subpath of your site, e.g. /blog
+url: "https://clairezed.github.io" # the base hostname & protocol for your site
+
+# Social settings ------------------------------------
+github_username: clairezed
+twitter_username: ZooletteDesBois
+
+# Build settings --------------------------------------
+markdown: kramdown
+# theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+# Sass ------------------------------------------------
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Locale ----------------------------------------------
+
+timezone: Europe/Paris
+encoding: utf-8
+locale: fr
+
+# Includes ----------------------------------------------
+include:
+  - _pages
