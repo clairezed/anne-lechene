@@ -7,6 +7,7 @@ g clone git@github.com:clairezed/jekyll-starter.git nom-nouveau-site
 cd nom-nouveau-site
 g remote set-url origin git@github.com:nom-user/nom-nouveau-site.git 
 g push origin master
+g remote add upstream git@github.com:clairezed/jekyll-starter.git
 ```
 
 
