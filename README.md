@@ -1,5 +1,16 @@
 # Jekyll starter
 
+## Comment l'installer comme base d'un autre projet 
+
+```
+g clone git@github.com:clairezed/jekyll-starter.git nom-nouveau-site
+cd nom-nouveau-site
+g remote set-url origin git@github.com:nom-user/nom-nouveau-site.git 
+g push origin master
+```
+
+
+
 ## How to use
 
 La config globale, commune à tous les environnements de développement, se trouve dans `_config.yml`. C'est la config qui est utilisée automatiquement par les pages github en production, on y trouve donc aussi les éléments de configuration propres à la production.
@@ -16,3 +27,4 @@ Votre site est visible sur [localhost:4000](localhost:4000)
 
 - Un dossier pour les pages, que je n'aime pas voir traîner (`_pages`). Du coup, ne pas oublier de mettre le permalink dans le frontmatter.
 - un fichier de `_config` par environnement
+
