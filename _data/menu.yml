@@ -1,0 +1,11 @@
+- title: Menu 1
+  id: menu-1
+  description : "<p>Très beau menu</p>"
+  items: poulet
+  price: 14
+
+- title: Menu 2
+  id: menu-2
+  description : "<p>Très chouette menu</p>"
+  items: nouilles
+  price: 12
