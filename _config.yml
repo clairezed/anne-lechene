@@ -37,3 +37,4 @@ locale: fr
 # Includes ----------------------------------------------
 include:
   - _pages
+  - _headers
