@@ -24,8 +24,8 @@ permalink: /
     srcset:min-width="300" size="300"
 %} -->
 
-{% asset coffee01.jpg
-    srcset:width="800"
+{% asset coffee01.jpg alt='coffee alt'
+    srcset:width="800" 
     srcset:width="600"
     srcset:width="400"
       %}
