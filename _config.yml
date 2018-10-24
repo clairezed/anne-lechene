@@ -42,5 +42,5 @@ include:
 # Jekyll assets
 assets:
   precompile: [
-    default-picture.jpg, 
+    default-picture.jpg
   ]
