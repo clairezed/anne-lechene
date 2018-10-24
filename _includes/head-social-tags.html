@@ -1,10 +1,16 @@
-<!-- Page title  -->
 {% if page.title %} {% assign raw_page_title = page.title %} {% else %} {% assign raw_page_title = site.title %} {% endif %}
 {% assign page_title = raw_page_title | url_escape | escape %}
 
-<!-- Page description  -->
 {% assign page_description = page.excerpt | default: site.description | strip_html | strip_newlines | normalize_whitespace | truncate: 160 | escape %}
 
+{% if page.ogimage %}
+  {% assign raw_page_image = page.ogimage %}
+{% elsif page.image %}
+  {% assign raw_page_image = assets[page.image].digest_path %}
+{% else %}
+  {% assign raw_page_image = assets["default-picture.png"].digest_path %}
+{% endif %}
+{% assign page_image = raw_page_image | absolute_url %}
 
 <title>{{ page_title }}</title>
 <meta name="description" content="{{ page_description }}">
@@ -28,29 +34,18 @@
   <meta property="article:tag" content="{{tag}}" />
   {% endfor %}
 
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:card" content="summary" />
   <meta name="twitter:creator" content="@{{site.twitter_username}}" />
   <meta name="twitter:title" content="{{page_title}}" />
-  {% if page.ogimagenull %}
-    <!-- no og image -->
-    {% elsif page.ogimage %}
-    <meta property="og:image" content="{{page.ogimage}}" />
-    <meta name="twitter:image" content="{{page.ogimage}}" />
+  <meta property="og:image" content="{{page_image}}" />
+  <meta name="twitter:image" content="{{page_image}}" />
+  {% if page.ogimage %}
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="315" />
-    {% elsif page.image %}
-    <meta property="og:image" content="{{page.image}}" />
-    <meta name="twitter:image" content="{{page.image}}" />
-    {% else %}
-    <meta property="og:image" content="{% asset default-picture.png @path %}" />
-    <meta name="twitter:image" content="{% asset default-picture.png @path %}" />
   {% endif %}
 {% else %}
   <!-- OG data for homepage -->
-  <meta property="og:image" content="{% asset default-picture.png @path %}" />
   <meta property="og:type" content="website" />
-  <!-- <meta name="twitter:card" content="summary_large_image"> -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{page_title}}" />
-  <meta name="twitter:image" content="{% asset default-picture.png @path %}" />
+  <meta name="twitter:title" content="{{ page_title }}" />
 {% endif %}
