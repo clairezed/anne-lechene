@@ -38,3 +38,9 @@ locale: fr
 include:
   - _pages
   - _headers
+
+# Jekyll assets
+assets:
+  precompile: [
+    default-picture.jpg, 
+  ]
