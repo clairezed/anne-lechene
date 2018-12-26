@@ -1,5 +1,5 @@
 # Site settings -----------------------------------
-title: Starter
+title: Jekyll Starter Kit
 email: clairezuliani@gmail.com
 description: My own jekyll starter
 # baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog

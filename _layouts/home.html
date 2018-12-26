@@ -1,26 +1,50 @@
 ---
 layout: default
 ---
+<section class="hero is-info is-bold">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">Jekyll Starter Kit</h1>
+      <p class="subtitle">
+      Built with <a href="https://bulma.io/documentation">Bulma</a>
+      </p>
+    </div>
+  </div>
+</section>
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
+<section class="section">
+  <div class="container">
+    <h2 class="title">Posts</h2>
+    <p class="subtitle">
+      Cey la liste des posts
+    </p>
   
-  {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+    <ul class="post-list">
+      {% for post in site.posts %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-
+    
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
       </li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <div class="buttons">
+      <a class="button is-primary">Primary</a>
+      <a class="button is-link" href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    </div>
 
-</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+
+    {{ content }}
+  </div>
+
+
+</section>

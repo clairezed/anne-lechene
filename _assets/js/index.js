@@ -1,4 +1,4 @@
-//=require source/base
+//=require custom/base
 
 document.addEventListener('DOMContentLoaded', function () {
 
