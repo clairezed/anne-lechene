@@ -1,0 +1,26 @@
+.navbar-menu
+  display: block
+  position: absolute
+  background: $primary
+  width: 100%
+  height: 100vh
+  z-index: -1
+  top: -100vh
+  transition: all 350ms ease
+  &.is-active
+    top: $navbar-height
+
+.navbar-brand
+  background-color: $primary
+
+.navbar-item
+  color: #fff
+
++desktop
+  .navbar-menu
+    position: static
+    display: flex
+    transform: translateY(0%)
+    height: 100%
+    width: auto
+    overflow: hidden
