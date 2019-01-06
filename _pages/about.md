@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: A propos
 permalink: /a-propos
 image: trait-retrait.jpg
