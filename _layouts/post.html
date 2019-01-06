@@ -1,22 +1,25 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="section post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="container">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
+    <header class="post-header">
+      <h1 class="title" itemprop="name headline">{{ page.title | escape }}</h1>
+      <p class="post-meta subtitle">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          {{ page.date | date: date_format }}
+        </time>
+        {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
-  </header>
+        {% endif %}
+      </p>
+    </header>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    <div class="content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
   </div>
-
 </article>
