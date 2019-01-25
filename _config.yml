@@ -39,6 +39,23 @@ include:
   - _pages
   - _headers
 
+# Collections -------------------------------------------
+
+collections:
+  projects:
+    output: true
+    permalink: /projets/:path/
+    title: Projets
+    layout: project
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
 # Jekyll assets
 assets:
   precompile: [

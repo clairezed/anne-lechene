@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<section id="main" class="container">
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.subtitle }}</p>
+  </header>
+  <div class="box">
+    <!-- <span class="image featured">{% asset pic01.jpg alt='coffee alt' %}</span> -->
+    {{ content }}
+    <ul class="alt">
+      <li><span>Période : </span> {{page.year}} </li>
+      {% if page.web_url %}
+      <li><span>Lien : </span> <a href="{{page.web_url}}">{{page.web_url}}</a> </li>
+      {% endif %}
+    </ul>
+  </div>
+</section>
+
+
