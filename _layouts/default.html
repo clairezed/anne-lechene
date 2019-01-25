@@ -3,14 +3,25 @@
 
   {% include head.html %}
 
-  <body>
+  <body class={% if page.url == '/' %}{{ 'landing is-preload' }}{% else %}{{ 'is-preload' }}{% endif %}>
+    
+  <body class="">
+    <div id="page-wrapper">
 
-    {% include header.html %}
+      {% include header.html %}
 
-    {{ content }}
+      {{ content }}
 
-    {% include footer.html %}
+      {% include footer.html %}
 
+    </div>
+    {% asset alpha/jquery.min.js defer %}
+    {% asset alpha/jquery.dropotron.min.js defer %}
+    {% asset alpha/jquery.scrollex.min.js defer %}
+    {% asset alpha/browser.min.js defer %}
+    {% asset alpha/breakpoints.min.js defer %}
+    {% asset alpha/util.js defer %}
+    {% asset alpha/main.js defer %}
   </body>
 
 </html>

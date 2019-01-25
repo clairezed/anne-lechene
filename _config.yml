@@ -1,10 +1,10 @@
 # Site settings -----------------------------------
-title: Jekyll Starter Kit
+title: Anne Lechêne
 email: clairezuliani@gmail.com
 description: My own jekyll starter
 # baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
 # url: "https://clairezed.github.io" # the base hostname & protocol for your site
-url: "https://clairezed-jekyll-starter.netlify.com" # the base hostname & protocol for your site
+url: "https://anne-lechene.netlify.com" # the base hostname & protocol for your site
 
 
 # Social settings ------------------------------------
