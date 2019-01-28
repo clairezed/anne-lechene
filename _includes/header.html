@@ -7,25 +7,29 @@
       {% assign page_paths = site.header_pages | default: default_paths %}
 
     <ul>
-      <li><a href="{{ "/" | relative_url }}">Home</a></li>
+      <li><a href="{{ "/" | relative_url }}">Accueil</a></li>
+      <li><a href="{{ "/#demarche" | relative_url }}">Démarche</a></li>
+      <li><a href="{{ "/#savoir-faire" | relative_url }}">Savoir-faire</a></li>
       <li>
-        <a href="#" class="icon fa-angle-down">Layouts</a>
+        <a href="#" class="icon fa-angle-down">Projets</a>
         <ul>
-          <li><a href="generic.html">Generic</a></li>
-          <li><a href="contact.html">Contact</a></li>
-          <li><a href="elements.html">Elements</a></li>
-          <li>
-            <a href="#">Submenu</a>
-            <ul>
-              <li><a href="#">Option One</a></li>
-              <li><a href="#">Option Two</a></li>
-              <li><a href="#">Option Three</a></li>
-              <li><a href="#">Option Four</a></li>
-            </ul>
-          </li>
+          {% for project in site.projects %}
+          <li><a href="{{project.url}}">{{ project.title }}</a></li>
+          {% endfor %}
         </ul>
       </li>
-      <li><a href="#" class="button">Sign Up</a></li>
+      <li>
+        <a href="#" class="icon fa-angle-down">Articles</a>
+        <ul>
+          {% for article in site.articles %}
+          <li><a href="{{article.url}}">{{ article.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li><a href="{{ "/#parcours" | relative_url }}">Parcours</a></li>
+      <li><a href="{{ "/maintenant" | relative_url }}">Maintenant</a></li>
+      <li><a href="{{ "/" | relative_url }}">Contact</a></li>
+      <!-- <li><a href="#" class="button">Sign Up</a></li> -->
     </ul>
   </nav>
 </header>

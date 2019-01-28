@@ -31,7 +31,7 @@ permalink: /
 
   <section class="box">
     <header>
-      <h2>Démarche</h2>
+      <h2 id="demarche">Démarche</h2>
       <p>Des organisations apprenantes dans un monde complexe</p>
     </header>
     <p>Nos organisations sont immergées dans des environnements instables et complexes, et composent avec de multiples parties prenantes. Héritant d’architectures “fonctionnelles” en silo pour “fonctionner”, elles sont arrivées au bout d’une logique managériale mécaniste visant au contrôle, héritée elle aussi de l’ère industrielle.</p>
