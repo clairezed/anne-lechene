@@ -105,7 +105,7 @@ permalink: /
 {% include box.html data=site.data.parcours.first %}
 
 <!-- CTA -->
-<section id="cta">
+<!-- <section id="cta">
   <h2>Sign up for beta access</h2>
   <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>
   <form>
@@ -119,7 +119,7 @@ permalink: /
     </div>
   </form>
 
-</section>
+</section> -->
 
 <!-- {% asset fanions.jpg @magick:2x @magick:quality=50 magick:resize="300" alt='This is my alt' %}
 {% asset fanions.jpg @magick:2x magick:crop="200x300+0+0" magick:gravity="center"  alt='This is my alt' %}
