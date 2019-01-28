@@ -67,7 +67,8 @@ permalink: /
 
 
 
-<section class="box special features">
+<section class="box special features projects-box">
+  <h2>Projets</h2>
 {% assign projects = site.projects | sort: "order"%}
 {% assign projects_count = projects | size %}
 {% assign projects_count_modulo = projects_count | modulo: 2 %}
@@ -82,6 +83,29 @@ permalink: /
   </div>
 {% endfor %}
 </section>
+
+  <div class="row">
+    <div class="col-6 col-12-narrower">
+      <section class="box special">
+        <span class="image featured">{% asset pic02.jpg alt='coffee alt' %}</span>
+        <h3>Sed lorem adipiscing</h3>
+        <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+        <ul class="actions special">
+          <li><a href="#" class="button alt">Learn More</a></li>
+        </ul>
+      </section>
+    </div>
+    <div class="col-6 col-12-narrower">
+      <section class="box special">
+        <span class="image featured">{% asset pic03.jpg alt='coffee alt' %}</span>
+        <h3>Accumsan integer</h3>
+        <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+        <ul class="actions special">
+          <li><a href="#" class="button alt">Learn More</a></li>
+        </ul>
+      </section>
+    </div>
+  </div>
 
 <!-- CTA -->
 <section id="cta">
