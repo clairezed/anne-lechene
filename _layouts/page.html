@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-<article class="section post">
-  <div class="container">
-    <h1 class="title">{{ page.title | escape }}</h1>
-  
-    <div class="content">
-      {{ content }}
-    </div>
 
+<section id="main" class="container">
+  <header>
+    <h2>{{ page.title| escape }}</h2>
+    {% if page.subtitle %}
+      <p>{{ page.subtitle }}</p>
+    {% endif %}
+  </header>
+  <div class="box">
+    <!-- <span class="image featured">{% asset pic01.jpg alt='coffee alt' %}</span> -->
+    {{ content }}
   </div>
-
-
-</article>
+</section>
