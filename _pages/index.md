@@ -102,6 +102,8 @@ permalink: /
   {% endfor %}
 </div>
 
+{% include box.html data=site.data.parcours.first %}
+
 <!-- CTA -->
 <section id="cta">
   <h2>Sign up for beta access</h2>
