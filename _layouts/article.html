@@ -4,14 +4,15 @@ layout: default
 <section id="main" class="container">
   <header>
     <h2>{{ page.title }}</h2>
-    <p>{{ page.subtitle }}</p>
+    <!-- <p>{{ page.subtitle }}</p> -->
   </header>
   <div class="box">
     <!-- <span class="image featured">{% asset pic01.jpg alt='coffee alt' %}</span> -->
     {{ content }}
   </div>
   <ul class="alt document-footer">
-    <li><span>Période : </span> {{page.year}} </li>
+    <li><span>Paru dans : </span> {{page.published_in}} </li>
+    <li><span>Date : </span> {{page.publication_date}} </li>
     {% if page.web_url %}
     <li><span>Lien : </span> <a href="{{page.web_url}}">{{page.web_url}}</a> </li>
     {% endif %}

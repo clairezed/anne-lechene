@@ -67,6 +67,7 @@ permalink: /
 
 
 
+
 <section class="box special features projects-box">
   <h2>Projets</h2>
 {% assign projects = site.projects | sort: "order"%}
@@ -78,50 +79,43 @@ permalink: /
   {% assign row = num | times: 2 %}
   {% assign row_projects = projects | slice: row, 2 %}
   {% for project in row_projects %}
-      {% include feature-section.html project=project %}
+    {% include feature-section.html project=project %}
   {% endfor %}
   </div>
 {% endfor %}
 </section>
 
-  <div class="row">
+<h2>Articles</h2>
+<div class="row">
+  {% assign articles = site.articles | sort: "order"%}
+  {% for article in articles %}
     <div class="col-6 col-12-narrower">
       <section class="box special">
         <span class="image featured">{% asset pic02.jpg alt='coffee alt' %}</span>
-        <h3>Sed lorem adipiscing</h3>
-        <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+        <h3>{{ article.title }}</h3>
+        <p>{{ article.excerpt }}</p>
         <ul class="actions special">
-          <li><a href="#" class="button alt">Learn More</a></li>
+          <li><a href="{{article.url}}" class="button alt">Lire plus</a></li>
         </ul>
       </section>
     </div>
-    <div class="col-6 col-12-narrower">
-      <section class="box special">
-        <span class="image featured">{% asset pic03.jpg alt='coffee alt' %}</span>
-        <h3>Accumsan integer</h3>
-        <p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-        <ul class="actions special">
-          <li><a href="#" class="button alt">Learn More</a></li>
-        </ul>
-      </section>
-    </div>
-  </div>
+  {% endfor %}
+</div>
 
 <!-- CTA -->
 <section id="cta">
-    <h2>Sign up for beta access</h2>
-    <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>
-    <form>
-
+  <h2>Sign up for beta access</h2>
+  <p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>
+  <form>
     <div class="row gtr-50 gtr-uniform">
-            <div class="col-8 col-12-mobilep">
-                <input type="email" name="email" id="email" placeholder="Email Address" />
-            </div>
-            <div class="col-4 col-12-mobilep">
-                <input type="submit" value="Sign Up" class="fit" />
-            </div>
-        </div>
-    </form>
+      <div class="col-8 col-12-mobilep">
+          <input type="email" name="email" id="email" placeholder="Email Address" />
+      </div>
+      <div class="col-4 col-12-mobilep">
+          <input type="submit" value="Sign Up" class="fit" />
+      </div>
+    </div>
+  </form>
 
 </section>
 

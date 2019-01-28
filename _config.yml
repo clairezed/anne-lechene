@@ -47,6 +47,11 @@ collections:
     permalink: /projets/:path/
     title: Projets
     layout: project
+  articles:
+    output: true
+    permalink: /articles/:path/
+    title: Articles
+    layout: article
 
 defaults:
   -
@@ -55,6 +60,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "article"
 
 # Jekyll assets
 assets:
