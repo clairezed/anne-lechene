@@ -5,7 +5,29 @@
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
 @import 'font-awesome';
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+
+
+@font-face{
+	font-family: 'Source Sans Pro';
+	src: url(asset_path("SourceSansPro-Light.ttf"));
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'Source Sans Pro';
+	src: url(asset_path("SourceSansPro-LightItalic.ttf"));
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face{
+	font-family: 'Source Sans Pro';
+	src: url(asset_path('SourceSansPro-Regular.ttf'));
+	font-weight: 400;
+	font-style: bold;
+}
+
 
 /*
 	Alpha by HTML5 UP
