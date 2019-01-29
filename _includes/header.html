@@ -11,7 +11,7 @@
       <li><a href="{{ "/#demarche" | relative_url }}">Démarche</a></li>
       <li><a href="{{ "/#savoir-faire" | relative_url }}">Savoir-faire</a></li>
       <li>
-        <a href="#" class="icon fa-angle-down">Projets</a>
+        <a href="{{ "/projets" | relative_url }}" class="icon fa-angle-down">Projets</a>
         <ul>
           {% for project in site.projects %}
           <li><a href="{{project.url}}">{{ project.title }}</a></li>
