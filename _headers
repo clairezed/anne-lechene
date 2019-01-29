@@ -4,7 +4,7 @@
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
-  Content-Security-Policy: default-src 'self' airtable.com ; img-src 'self' ; script-src 'self' airtable.com 'unsafe-inline' ; style-src 'self' 'unsafe-inline' ; object-src 'self'; font-src 'self'; base-uri 'self' ;
+  Content-Security-Policy: default-src 'self' fonts.googleapis.com ; img-src 'self' ; script-src 'self' fonts.googleapis.com 'unsafe-inline' ; style-src 'self' 'unsafe-inline' ; object-src 'self'; font-src 'self'; base-uri 'self' ;
 
 /*.woff2
   Access-Control-Allow-Origin: "*"
