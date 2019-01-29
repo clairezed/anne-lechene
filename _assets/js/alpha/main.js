@@ -1,3 +1,10 @@
+//=require alpha/jquery.min
+//=require alpha/jquery.dropotron.min
+//=require alpha/jquery.scrollex.min
+//=require alpha/browser.min
+//=require alpha/breakpoints.min
+//=require alpha/util
+
 /*
 	Alpha by HTML5 UP
 	html5up.net | @ajlkn
