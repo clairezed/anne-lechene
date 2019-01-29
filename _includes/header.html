@@ -19,7 +19,7 @@
         </ul>
       </li>
       <li>
-        <a href="#" class="icon fa-angle-down">Articles</a>
+        <a href="{{ "/articles" | relative_url }}" class="icon fa-angle-down">Articles</a>
         <ul>
           {% for article in site.articles %}
           <li><a href="{{article.url}}">{{ article.title }}</a></li>
