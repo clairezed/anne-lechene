@@ -11,20 +11,10 @@
       <li><a href="{{ "/#demarche" | relative_url }}">Démarche</a></li>
       <li><a href="{{ "/#savoir-faire" | relative_url }}">Savoir-faire</a></li>
       <li>
-        <a href="{{ "/projets" | relative_url }}" class="icon fa-angle-down">Projets</a>
-        <ul>
-          {% for project in site.projects %}
-          <li><a href="{{project.url}}">{{ project.title }}</a></li>
-          {% endfor %}
-        </ul>
+        <a href="{{ "/projets" | relative_url }}">Projets</a>
       </li>
       <li>
-        <a href="{{ "/articles" | relative_url }}" class="icon fa-angle-down">Articles</a>
-        <ul>
-          {% for article in site.articles %}
-          <li><a href="{{article.url}}">{{ article.title }}</a></li>
-          {% endfor %}
-        </ul>
+        <a href="{{ "/articles" | relative_url }}">Articles</a>
       </li>
       <li><a href="{{ "/#parcours" | relative_url }}">Parcours</a></li>
       <li><a href="{{ "/maintenant" | relative_url }}">Maintenant</a></li>
