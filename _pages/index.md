@@ -102,10 +102,6 @@ permalink: /
 {% include box.html data=site.data.parcours.first %}
 
 
-<div id="numeriquement" class="card keyword-card"><div class="card-content"><p class="card-header-title">
-                      numériquement
-                    </p> <div class="content"><p>L'assembleuse prototype des idées émergentes, conseille des solutions ouvertes, réalise des sites web décroissants, crée des applications web qui facilitent vos processus de travail.</p> <p>Notre web est simple, ouvert, transparent, inclusif. Plein de goût !</p></div></div></div>
-
 <!-- CTA -->
 <!-- <section id="cta">
   <h2>Sign up for beta access</h2>
