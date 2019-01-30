@@ -1,5 +1,4 @@
 //=require alpha/jquery.min
-//=require alpha/jquery.dropotron.min
 //=require alpha/jquery.scrollex.min
 //=require alpha/browser.min
 //=require alpha/breakpoints.min
@@ -35,10 +34,10 @@
 			}, 100);
 		});
 
-	// Dropdowns.
-		$('#nav > ul').dropotron({
-			alignment: 'right'
-		});
+	// // Dropdowns.
+	// 	$('#nav > ul').dropotron({
+	// 		alignment: 'right'
+	// 	});
 
 	// NavPanel.
 
