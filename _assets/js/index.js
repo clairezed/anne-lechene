@@ -4,9 +4,9 @@
 
 document.addEventListener('DOMContentLoaded', function () {
 
-  console.log("hello sweetie !");
+  // console.log("hello sweetie !");
   const scroll = new SmoothScroll('a[href*="#"]', {
-    offset: 50,
+    offset: 70,
   });
 
 })
