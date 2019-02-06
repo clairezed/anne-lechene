@@ -5,6 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _data
+  label: Page d'accueil
+  create: none
+  match: "**/*"
+- type: directory
+  path: _path
+  label: Pages de contenu
+  create: documents
+  match: "**/*"
+- type: directory
   path: _projects
   label: Projects
   create: all
