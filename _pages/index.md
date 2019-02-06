@@ -7,7 +7,7 @@ permalink: /
 
 <section id="banner">
   <h2>Anne Lechêne</h2>
-  <p>Vers des organisations vivantes et apprenantes</p>
+  <p>Apprendre et faire ensemble</p>
 </section>
 
 <!-- Main -->
@@ -15,8 +15,8 @@ permalink: /
   <!-- En-tête -->
   <section class="box special">
     <header class="major">
-      <h2>Apprendre et faire ensemble</h2>
-      <p>De petites expériences irréversibles de collaboration pour transformer nos cultures professionnelles.</p>
+      <h2>Vers des organisations vivantes et apprenantes</h2>
+      <p>S’inspirer du vivant pour co-construire des connaissances et des pratiques coopératives dans nos territoires et nos écosystèmes</p>
     </header>
     <span class="image featured">
     {% asset pic01.jpg alt='coffee alt' %}
