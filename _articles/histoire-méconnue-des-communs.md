@@ -3,6 +3,7 @@ title: L’histoire méconnue des communs
 published_in: Le Mag Colibris
 publication_date: juil. 2017
 web_url: https://www.colibris-lemouvement.org/magazine/lhistoire-meconnue-communs
+short_description:
 picture: EcosystemeApprenantColibris.jpg
 order: 2
 ---

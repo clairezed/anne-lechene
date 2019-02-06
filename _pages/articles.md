@@ -1,7 +1,7 @@
 ---
 layout: articles
 title: Articles
-subtitle: Sélection d'articles dont je suis l'auteur
+subtitle: Sélection d'articles
 permalink: /articles
 ---
 
