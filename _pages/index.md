@@ -19,7 +19,7 @@ permalink: /
       <p>S’inspirer du vivant pour co-construire des connaissances et des pratiques coopératives dans nos territoires et nos écosystèmes</p>
     </header>
     <span class="image featured">
-    {% asset pic01.jpg alt='coffee alt' %}
+    {% asset Nid_et_dome_1200x393.jpg alt='coffee alt' %}
     </span>
   </section>
 

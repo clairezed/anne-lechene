@@ -1,5 +1,5 @@
 <!-- <header id="header" class="alt" role="banner"> -->
-<header id="header" class="" role="banner">
+<header id="header" class="class={% if page.url == '/' %}{{ 'reveal alt' }}{% else %}{{ '' }}{% endif %}" role="banner">
 
   <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
   <nav id="nav">
