@@ -1,9 +1,0 @@
-<section class="box">
-  <header>
-    <h2 id="{{include.data.title | slugify}}">{{include.data.title}}</h2>
-    <p>{{include.data.subtitle}}</p>
-  </header>
-  {% for section in include.data.sections %}
-    <div>{{ section | markdownify }}</div>
-  {% endfor %}
-</section>

@@ -1,0 +1,10 @@
+{% assign pages = site.pages | where: "permalink" , include.permalink %}
+{% for page in pages %}
+<section class="box">
+  <header>
+    <h2 id="{{page.title | slugify}}">{{page.title}}</h2>
+    <p>{{page.subtitle}}</p>
+  </header>
+  <div>{{ page.content | markdownify }}</div>
+</section>
+{% endfor %}
