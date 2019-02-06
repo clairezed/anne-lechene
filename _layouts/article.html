@@ -7,7 +7,7 @@ layout: default
     <!-- <p>{{ page.subtitle }}</p> -->
   </header>
   <div class="box">
-    <!-- <span class="image featured">{% asset pic01.jpg alt='coffee alt' %}</span> -->
+    <span class="image featured">{% asset {{page.picture}} alt='{{ page.title }}' %}</span>
     {{ content }}
   </div>
   <ul class="alt document-footer">

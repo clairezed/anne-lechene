@@ -1,0 +1,16 @@
+{{ assign article = include.article}}
+<div class="col-6 col-12-narrower">
+  <section class="box special">
+    <span class="image featured">
+      <a href="{{article.url}}">
+        {% asset {{article.picture}} magick:resize="576" magick:crop="576x256+0+0"
+        magick:gravity="center" alt='{{ article.title }}' %}
+      </a>
+      </span>
+    <h3>{{ article.title }}</h3>
+    <p>{{ article.excerpt }}</p>
+    <ul class="actions special">
+      <li><a href="{{article.url}}" class="button alt">Lire plus</a></li>
+    </ul>
+  </section>
+</div>

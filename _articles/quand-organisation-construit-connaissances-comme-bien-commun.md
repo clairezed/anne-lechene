@@ -3,6 +3,7 @@ title: Quand une organisation construit ses connaissances comme un bien commun
 published_in: revue Mag RH
 publication_date: fév. 2019
 web_url: https://www.dropbox.com/s/gv1yk0z14mxno9f/Article%20RH%20Anne%20Lech%C3%AAne%206%20nov%202018.pdf?dl=0
+picture: Communs.jpg
 order: 1
 ---
 
