@@ -4,19 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: _data/parcours.yml
-  label: Parcours
-  match: "**/*"
-- type: directory
-  path: _data
-  label: Page d'accueil
-  create: documents
-  match: "*"
-  new_doc_ext: yml
 - type: directory
   path: _pages
-  label: Pages de contenu
+  label: Contenu
   create: documents
   match: "**/*"
 - type: directory
