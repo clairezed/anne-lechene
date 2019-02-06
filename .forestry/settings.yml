@@ -10,7 +10,7 @@ sections:
   create: none
   match: "**/*"
 - type: directory
-  path: _path
+  path: _pages
   label: Pages de contenu
   create: documents
   match: "**/*"
