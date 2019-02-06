@@ -16,7 +16,7 @@ sections:
   match: "**/*"
 - type: directory
   path: _projects
-  label: Projects
+  label: Projets
   create: all
   match: "**/*"
 - type: directory
