@@ -4,7 +4,7 @@ subtitle: "Une communauté de recherche : CRI, DU Acteur de la transition éduca
 year: 2017 et 2018
 web_url:
 order: 6
-icon: 'fa-area-chart accent3'
+icon: 'fas fa-binoculars accent3'
 ---
 
 Je conduis une recherche-action dans le cadre du CRI (Centre de Recherches Interdisciplinaires, Univ. Paris-Descartes) sur les sources de la motivation des participants aux MOOCs citoyens de Colibris et les déterminants du développement de leur pouvoir d’agir, aux plans individuel et collectif.
