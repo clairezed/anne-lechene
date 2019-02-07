@@ -18,5 +18,5 @@ Les expériences d’apprenance peuvent s’initier à très petite échelle - p
 
 La démarche dans laquelle je propose de vous accompagner est d’entrer par expériences successives dans cette nouvelle culture professionnelle des organisations apprenantes.
 
-[En savoir plus sur la planète apprenante avec François Taddéi](https://www.youtube.com/watch?time_continue=285&v=BhunNczVNaA) (vidéo de 4:45)
+[En savoir plus sur la planète apprenante avec François Taddéi](https://www.youtube.com/watch?time_continue=285&v=BhunNczVNaA){:target="_blank"} (vidéo de 4:45)
 
