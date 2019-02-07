@@ -2,14 +2,8 @@
 title: Anne Lechêne
 email: clairezuliani@gmail.com
 description: My own jekyll starter
-# baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
-# url: "https://clairezed.github.io" # the base hostname & protocol for your site
-url: "https://anne-lechene.netlify.com" # the base hostname & protocol for your site
+url: "https://www.annelechene.fr/" # the base hostname & protocol for your site
 
-
-# Social settings ------------------------------------
-github_username: clairezed
-twitter_username: ZooletteDesBois
 
 # Build settings --------------------------------------
 markdown: kramdown
