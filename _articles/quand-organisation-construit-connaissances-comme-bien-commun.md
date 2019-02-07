@@ -1,9 +1,9 @@
---- 
+---
 title: L'écosystème apprenant des Colibris
 published_in: revue Mag RH
 publication_date: fév. 2019
 web_url: https://www.dropbox.com/s/gv1yk0z14mxno9f/Article%20RH%20Anne%20Lech%C3%AAne%206%20nov%202018.pdf?dl=0
-short_description: 
+short_description: La théorie des Communs refleurit ces dernières années, depuis qu'un prix Nobel a couronné les travaux d'Elinor Ostrom en 2008. Une lourd discrédit pesait auparavant sur les capacités d'auto-organisation d'un groupe pour gérer ensemble une ressource, avec la prétendue «tragédie des Communs» décrite quarante ans plus tôt par Garrett Hardin.
 picture: EcosystemeApprenantColibris.jpg
 order: 1
 published: true
