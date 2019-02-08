@@ -1,0 +1,14 @@
+---
+label: Contenu
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Titre
+- type: text
+  name: subtitle
+  label: Sous-titre
+- type: text
+  name: permalink
+  label: url
