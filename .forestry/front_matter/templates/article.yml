@@ -1,0 +1,40 @@
+---
+label: article
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: web_url
+  label: Web url
+  type: textarea
+  hidden: false
+  default: ''
+- name: order
+  label: Order
+  type: text
+  hidden: false
+  default: ''
+- name: published_in
+  label: Published in
+  type: text
+  hidden: false
+  default: ''
+- name: publication_date
+  label: Publication date
+  type: text
+  hidden: false
+  default: ''
+- name: short_description
+  label: Short description
+  type: textarea
+  hidden: false
+  default: ''
+- name: picture
+  label: Picture
+  type: file
+  hidden: false
+  default: ''
