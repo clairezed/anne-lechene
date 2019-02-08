@@ -4,7 +4,7 @@ subtitle: Animation de communauté et soutien pédagogique
 year: 2018
 web_url: https://www.fun-mooc.fr/courses/course-v1:CNFPT+87016+session01/about
 order: 2
-icon: 'fas fa-laptop-code'
+icon: 'fa-laptop-code'
 color: 'accent4'
 ---
 

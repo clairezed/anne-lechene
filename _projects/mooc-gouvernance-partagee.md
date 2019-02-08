@@ -4,7 +4,7 @@ subtitle: Les Défis du faire ensemble, un parcours collaboratif ancré dans l�
 year: depuis 2017
 web_url:
 order: 3
-icon: 'fas fa-atom'
+icon: 'fa-atom'
 color: 'accent3'
 ---
 

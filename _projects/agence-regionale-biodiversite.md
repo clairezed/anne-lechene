@@ -4,7 +4,7 @@ subtitle: En chemin vers la gouvernance partagée
 year: 2019
 web_url: 
 order: 1
-icon: 'fas fa-frog'
+icon: 'fa-frog'
 color: 'accent5'
 ---
 

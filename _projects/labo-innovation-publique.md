@@ -4,7 +4,7 @@ subtitle: Animation d’ateliers de co-construction et réseau de soutien
 year: janv. - juin 2019
 web_url: "https://universiteinnovationpublique.wordpress.com/"
 order: 4
-icon: 'fas fa-spinner'
+icon: 'fa-spinner'
 color: 'accent5'
 ---
 

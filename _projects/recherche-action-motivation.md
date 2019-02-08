@@ -4,7 +4,7 @@ subtitle: "Une communauté de recherche : CRI, DU Acteur de la transition éduca
 year: 2017 et 2018
 web_url:
 order: 6
-icon: 'fas fa-binoculars'
+icon: 'fa-binoculars'
 color: 'accent3'
 ---
 

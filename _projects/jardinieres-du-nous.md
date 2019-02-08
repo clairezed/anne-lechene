@@ -4,7 +4,7 @@ subtitle: "Des communautés apprenantes et des communs pérennes sur le faire en
 year: depuis 2017
 web_url: https://saison3.jardiniersdunous.org/wakka.php?wiki=PagePrincipale
 order: 5
-icon: 'fas fa-leaf'
+icon: 'fa-leaf'
 color: 'accent2'
 ---
 
