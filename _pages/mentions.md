@@ -8,6 +8,8 @@ permalink: /mentions-legales
 
 Anne Lechene
 
+Anne Lechene fait partie de [SMart](https://www.smartfr.fr).
+
 ## Hébergement
 
 Site hébergé chez Netlify
