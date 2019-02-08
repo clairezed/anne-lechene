@@ -4,7 +4,8 @@ subtitle: En chemin vers la gouvernance partagée
 year: 2019
 web_url: 
 order: 1
-icon: 'fas fa-frog accent4'
+icon: 'fas fa-frog'
+color: 'accent5'
 ---
 
 Je contribue à cet accompagnement au sein d’un groupement de consultants.

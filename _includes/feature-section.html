@@ -1,7 +1,7 @@
 {{ assign project = include.project}}
 
 <section>
-  <i class="icon major {{ project.icon }}"></i>
+  <i class="icon major {{ project.icon }} {{ project.color }}"></i>
   <h3><a href="{{ project.url  | relative_url }}" >{{ project.title }}</a></h3>
   <p>{{ project.subtitle }}</p>
 </section>
