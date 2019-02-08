@@ -1,40 +1,48 @@
 ---
 label: Projet
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Titre
   type: text
   hidden: false
   default: ''
 - name: subtitle
-  label: Subtitle
+  label: Sous_titre
   type: text
   hidden: false
   default: ''
 - name: year
-  label: Year
+  label: Année / période
   type: text
   hidden: false
   default: ''
 - name: web_url
-  label: Web url
+  label: Url du projet
   type: textarea
   hidden: false
   default: ''
 - name: order
-  label: Order
+  label: Ordre
   type: text
   hidden: false
   default: ''
 - name: icon
-  label: Icon
+  label: Icone
   type: text
   hidden: false
   default: ''
-- name: color
-  label: Color
-  type: text
-  hidden: false
-  default: ''
+- type: select
+  config:
+    source:
+      type: simple
+      section: projects
+    options:
+    - accent2
+    - " accent3"
+    - accent4
+    - accent5
+  name: color
+  label: Classe CSS de la couleur
+  description: 'accent2: orange, accent3: rouge, accent4: bleu, accent5: vert'
