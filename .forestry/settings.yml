@@ -12,6 +12,8 @@ sections:
   label: Contenu
   create: documents
   match: "**/*"
+  templates:
+  - contenu
 - type: directory
   path: _projects
   label: Projets
