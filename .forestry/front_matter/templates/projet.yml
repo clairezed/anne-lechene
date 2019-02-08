@@ -1,0 +1,40 @@
+---
+label: Projet
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: year
+  label: Year
+  type: text
+  hidden: false
+  default: ''
+- name: web_url
+  label: Web url
+  type: textarea
+  hidden: false
+  default: ''
+- name: order
+  label: Order
+  type: text
+  hidden: false
+  default: ''
+- name: icon
+  label: Icon
+  type: text
+  hidden: false
+  default: ''
+- name: color
+  label: Color
+  type: text
+  hidden: false
+  default: ''
