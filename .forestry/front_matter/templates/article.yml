@@ -1,40 +1,40 @@
 ---
 label: article
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Titre
   type: text
   hidden: false
   default: ''
 - name: web_url
-  label: Web url
+  label: Url source
   type: textarea
   hidden: false
   default: ''
 - name: order
-  label: Order
+  label: Ordre
   type: text
   hidden: false
   default: ''
 - name: published_in
-  label: Published in
+  label: Publié dans
   type: text
   hidden: false
   default: ''
 - name: publication_date
-  label: Publication date
+  label: Date de publication
   type: text
   hidden: false
   default: ''
 - name: short_description
-  label: Short description
+  label: Description courte
   type: textarea
   hidden: false
   default: ''
 - name: picture
-  label: Picture
+  label: Image
   type: file
   hidden: false
   default: ''
