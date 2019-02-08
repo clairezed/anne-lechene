@@ -56,7 +56,7 @@ background_overlay: overlay.png
   </ul>
 
   <!-- Section articles -->
-  <h2>Articles</h2>
+  <h2 class="ml-1">Articles</h2>
   <div class="row">
     {% assign articles = site.articles | sort: "order"%}
     {% for article in articles limit: 4 %}
