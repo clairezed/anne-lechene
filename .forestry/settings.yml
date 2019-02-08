@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/configuration.yml
   label: Configuration
-  match: "**/*"
 - type: directory
   path: _pages
   label: Contenu
