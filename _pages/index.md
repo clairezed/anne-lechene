@@ -2,10 +2,14 @@
 layout: default
 title: Accueil
 permalink: /
+background_picture: IMG_8251-01-01_1800x905.jpg
+background_overlay: overlay.png
 ---
 
 
-<section id="banner">
+
+<section id="banner" style='background-image: url({% asset "{{ page.background_overlay }}" @path %}), url({% asset "{{ page.background_picture }}" @path %});'>
+
   <h2>Anne Lechêne</h2>
   <p>Apprendre et faire ensemble</p>
 </section>
