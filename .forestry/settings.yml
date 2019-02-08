@@ -19,6 +19,8 @@ sections:
   label: Projets
   create: all
   match: "**/*"
+  templates:
+  - projet
 - type: directory
   path: _articles
   label: Articles
