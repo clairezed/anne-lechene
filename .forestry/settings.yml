@@ -26,6 +26,8 @@ sections:
   label: Articles
   create: all
   match: "**/*"
+  templates:
+  - article
 upload_dir: _assets/img
 public_path: "/_assets/img"
 front_matter_path: ''
