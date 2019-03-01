@@ -274,5 +274,3 @@ Pour cheminer sur les terres des communautés apprenantes et des communs de la c
 * Henri Verdier et Nicolas Colin, _L'âge de la multitude_ (Armand Colin, 2012 et 2015)
 * [Site web de l'Université du Nous](http://universite-du-nous.org/)
 * [Wiki du projet Oasis](https://colibris.cc/oasis/wakka.php?wiki=PagePrincipale)
-
-Test
