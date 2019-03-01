@@ -264,19 +264,15 @@ Pour s'inspirer des partis-pris forts du projet Oasis, je propose aux lectrices 
 
 Pour cheminer sur les terres des communautés apprenantes et des communs de la connaissance, voici enfin quelques propositions d'accompagnement.
 
-Albert Bandura, _Auto-efficacité - Le sentiment d’efficacité personnelle_ (Bruxelles : de Boeck, 2002).
-trad. de J. Lecomte. Self-efficacy - The exercise of personal control (New York, Freeman,1997)
-Benjamin Coriat, [Qu’est-ce qu’un Commun ?](https://france.attac.org/nos-publications/les-possibles/numero-5-hiver-2015/dossier-les-biens-communs/article/qu-est-ce-qu-un-commun) (Les possibles, n°5, 6 janvier 2015)
-Denis Cristol, _Les communautés d'apprentissage_ (ESF éditeur, 2016)
-Anne Lechêne, [mémoire de recherche sur un MOOC de l'Université des Colibris](https://www.dropbox.com/s/pft2fsjg9v72yij/M%C3%A9moire%20Anne%20Lech%C3%AAne%20complet%20DU%2005%20juillet%2017.pdf?dl=0) (2016-2017) :
-étude des motivations des participants et monographie d'un MOOC citoyen (DU Acteur de la
-transition éducative, CRI, Université Paris-Descartes, 2017)
-Anne Lechêne, [L'histoire méconnue des communs](https://www.colibris-lemouvement.org/magazine/lhistoire-meconnue-communs) (Colibris Le Mag, 5 juillet 2017)
-Laurent Marseault, [Faire sa part ne suffit pas](https://www.colibris-lemouvement.org/magazine/faire-sa-part-ne-suffit-pas) (Colibris le Mag, 18 mars 2018)
-Lionel Maurel, [Réinvestir les Communs culturels en tant que Communs sociaux](https://scinfolex.com/2018/07/28/reinvestir-les-communs-culturels-en-tant-que-communs-sociaux/) (S.I.Lex, 28 juillet
-2018)
-Henri Verdier et Nicolas Colin, _L'âge de la multitude_ (Armand Colin, 2012 et 2015)
-[Site web de l'Université du Nous](http://universite-du-nous.org/)
-[Wiki du projet Oasis](https://colibris.cc/oasis/wakka.php?wiki=PagePrincipale)
+* Albert Bandura, _Auto-efficacité - Le sentiment d’efficacité personnelle_ (Bruxelles : de Boeck, 2002).
+* trad. de J. Lecomte. Self-efficacy - The exercise of personal control (New York, Freeman,1997) Benjamin Coriat, [Qu’est-ce qu’un Commun ?](https://france.attac.org/nos-publications/les-possibles/numero-5-hiver-2015/dossier-les-biens-communs/article/qu-est-ce-qu-un-commun) (Les possibles, n°5, 6 janvier 2015)
+* Denis Cristol, _Les communautés d'apprentissage_ (ESF éditeur, 2016)
+* Anne Lechêne, [mémoire de recherche sur un MOOC de l'Université des Colibris](https://www.dropbox.com/s/pft2fsjg9v72yij/M%C3%A9moire%20Anne%20Lech%C3%AAne%20complet%20DU%2005%20juillet%2017.pdf?dl=0) (2016-2017) : étude des motivations des participants et monographie d'un MOOC citoyen (DU Acteur de la transition éducative, CRI, Université Paris-Descartes, 2017) 
+* Anne Lechêne, [L'histoire méconnue des communs](https://www.colibris-lemouvement.org/magazine/lhistoire-meconnue-communs) (Colibris Le Mag, 5 juillet 2017)
+* Laurent Marseault, [Faire sa part ne suffit pas](https://www.colibris-lemouvement.org/magazine/faire-sa-part-ne-suffit-pas) (Colibris le Mag, 18 mars 2018)
+* Lionel Maurel, [Réinvestir les Communs culturels en tant que Communs sociaux](https://scinfolex.com/2018/07/28/reinvestir-les-communs-culturels-en-tant-que-communs-sociaux/) (S.I.Lex, 28 juillet 2018) 
+* Henri Verdier et Nicolas Colin, _L'âge de la multitude_ (Armand Colin, 2012 et 2015)
+* [Site web de l'Université du Nous](http://universite-du-nous.org/)
+* [Wiki du projet Oasis](https://colibris.cc/oasis/wakka.php?wiki=PagePrincipale)
 
 Test
