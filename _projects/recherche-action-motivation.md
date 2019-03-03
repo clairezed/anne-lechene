@@ -14,4 +14,4 @@ Mon sujet :  les sources de la motivation des participants aux MOOCs citoyens de
 
 [Mémoire de recherche](https://www.dropbox.com/s/pft2fsjg9v72yij/M%C3%A9moire%20Anne%20Lech%C3%AAne%20complet%20DU%2005%20juillet%2017.pdf?dl=0) soutenu en octobre 2017.
 
-Un article de Thot Cursus reprend les conclusions de mon travail : [Les raisons du succès des MOOCs de Colibris](), par Denis Cristol.
+Un article de Thot Cursus reprend les conclusions de mon travail : [Les raisons du succès du MOOC des Colibris](), par Denis Cristol.
