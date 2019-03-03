@@ -8,6 +8,10 @@ icon: fa-atom
 color: accent2
 
 ---
-Je coordonne le parcours Défis de ce MOOC co-produit par Colibris et l’Université du Nous : les apprentissages du MOOC sont ancrés et mis en pratique en équipe autour d’une expérience concrète à vivre en gouvernance partagée, dans la temporalité du MOOC (10 semaines). 
+En 2017, le MOOC Gouvernance partagée co-produit par l’Université du Nous et Colibris est une première mondiale. 22 000 participants s’embarquent depuis 56 pays, accueillis par une vidéo introductive de Frederic Laloux.
 
-Co-design du parcours et de l’accompagnement, animation de la communauté.
+Je contribue à l’animation de la communauté pendant les 12 semaines du MOOC puis à l’analyse des questionnaires adressés aux participants.
+
+Deux ans plus tard, le MOOC revient avec un 3e partenaire, les Jardinier.e.s du Nous, une communauté apprenante pérenne autour du faire ensemble, qui co-designe et anime le parcours collaboratif.
+
+Je coordonne les Défis du faire ensemble du parcours Jardinier.e.s : les apprentissages du MOOC sont ancrés et mis en pratique en équipe autour d’une expérience concrète à vivre en gouvernance partagée, dans la temporalité du MOOC.
