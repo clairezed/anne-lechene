@@ -8,7 +8,7 @@ icon: fa-binoculars
 color: accent2
 
 ---
-Je conduis une recherche-action dans le cadre du CRI (Centre de Recherches Interdisciplinaires, Univ. Paris-Descartes, co-fondé par François Taddei).
+Je conduis une recherche-action dans le cadre du CRI (Centre de Recherches Interdisciplinaires, Univ. Paris-Descartes, co-fondé par François Taddei), DU Acteur de la transition éducative.
 
 Mon sujet :  les sources de la motivation des participants aux MOOCs citoyens de Colibris et les déterminants du développement de leur pouvoir d’agir, aux plans individuel et collectif.
 
