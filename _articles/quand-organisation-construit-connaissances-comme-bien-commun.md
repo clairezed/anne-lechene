@@ -3,11 +3,9 @@ title: L'écosystème apprenant des Colibris
 published_in: revue Mag RH
 publication_date: fév. 2019
 web_url: ''
-short_description: La théorie des Communs refleurit ces dernières années, depuis qu'un
-  prix Nobel a couronné les travaux d'Elinor Ostrom en 2008. Une lourd discrédit pesait
-  auparavant sur les capacités d'auto-organisation d'un groupe pour gérer ensemble
-  une ressource, avec la prétendue «tragédie des Communs» décrite quarante ans plus
-  tôt par Garrett Hardin.
+short_description: Très avancés dans la mise en oeuvre du paradigme d'une organisation
+  apprenante, les Colibris co-construisent de nouvelles connaissances comme un bien
+  commun et les mettent en visibilité pour faire archipel dans le société.
 picture: EcosystemeApprenantColibris.jpg
 order: 1
 
