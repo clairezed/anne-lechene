@@ -8,7 +8,7 @@ icon: fa-leaf
 color: accent2
 
 ---
-Je contribue au projet Jardinier·e·s du Nous incubé par l'Université du Nous, visant à créer et soutenir des communautés apprenantes et des communs pédagogiques pérennes sur le faire ensemble. 
+Je contribue au projet Jardinier·e·s du Nous incubé par [l'Université du Nous](http://universite-du-nous.org/), visant à créer et soutenir des communautés apprenantes et des communs pédagogiques pérennes sur le faire ensemble. 
 
 Le dispositif pédagogique comporte une plateforme numérique libre et open source et des groupes de pratique autonomes ou accompagnés. 
 
