@@ -16,3 +16,7 @@ A la pré-assemblée générale (Paris) de la CAE [SMART France](https://www.sma
 ### Ruralité et lieux de musiques actuelles
 
 Je participe aux journées sur la ruralité organisées par la Fédération des lieux de musiques actuelles ([FEDELIMA](http://www.fedelima.org/)), lors d'un atelier sur les nouvelles formes de gouvernance permettent davantage de coopération dans des projets de territoire.
+
+### Tiers-lieux en réseaux
+
+A [l'Université de l'innovation publique territoriale]() (Cluny, 9-11 juillet 2019), je facilite un défi territorial porté par le PETR Mâconnais-Sud Bourgogne, pour accélérer le soutien et la mise en reseaux des tiers-lieux émergents du territoire.
