@@ -7,7 +7,6 @@ short_description: Bubble Daze is all about sharing passion and knowledge, perfo
   together and learning from one another. A report from Bangor, North Wales.
 picture: BubbleDaze.jpg
 order: "4"
-published: false
 
 ---
 ### A worldwide meeting in North Wales
