@@ -5,17 +5,14 @@ subtitle: Ateliers, expertises, coups de main
 permalink: "/maintenant"
 
 ---
-### Congrès Vision 2021 : Intelligence collective et Innovation
+### Equitable et bio
 
-Je propose une conférence-atelier le 1er mars à Marseille sur le thème “[MOOCs collaboratifs et communautés apprenantes](https://photos.app.goo.gl/2qWyf2HKH7dESU4D8)”, avec un retour d’expérience des MOOCs sur la Gouvernance partagée co-produits par l’Université du Nous et Colibris.
+A l'assemblée générale de l'association [BIOPARTENAIRE](http://www.biopartenaire.com/), j'anime un atelier en intelligence collective sur un sujet transversal qui concerne la trentaine de producteurs bio et engagés réunis dans cette association.
 
-### Ministère de l’Education Nationale, appel à projets innovants
+### SMART in progress
 
-Je suis membre du  comité de lecture de l’appel à projets “Réseaux et Territoires apprenants” lancé dans les académies et destiné à soutenir les meilleurs projets. Les résultats seront rendus publics lors de la Journée nationale de l’innovation le 3 avril à la Gaîté-Lyrique.
+A la pré-assemblée générale (Paris) de la CAE [SMART France](https://www.smartfr.fr/), je co-anime un atelier en intelligence collective visant à mobiliser les coopérateurs dans des ateliers de co-construction.
 
-### EMOOCS 2019, Napoli, May 20th
+### Ruralité et lieux de musiques actuelles
 
-How to cook a C-Mooc in a radical kitchen ?
-
-A workshop for exploring an emerging trend in socio-constructivist learning design : build large resilient learning communities, with a collaborative MOOC as a first shared experience.  
-Mouvement Colibris is a french NGO founded in 2007, dedicated to upskilling and empowering citizens into collaborative action for a more sustainable way of life. Colibris runs an Open University since 2015, which has produced 5 MOOCs - on Education, Ecovillages, Permaculture, Horizontal Governance, Participative Democracy.
+Je participe aux journées sur la ruralité organisées par la Fédération des lieux de musiques actuelles ([FEDELIMA](http://www.fedelima.org/)), lors d'un atelier sur les nouvelles formes de gouvernance permettent davantage de coopération dans des projets de territoire.
