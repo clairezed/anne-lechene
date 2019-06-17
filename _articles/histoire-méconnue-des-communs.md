@@ -3,12 +3,15 @@ title: L’histoire méconnue des communs
 published_in: Le Mag Colibris
 publication_date: juil. 2017
 web_url: https://www.colibris-lemouvement.org/magazine/lhistoire-meconnue-communs
-short_description: "Voici une histoire vraie, qui commence au Moyen-Âge et est directement reliée à l’essor d’Internet et du logiciel libre : l’histoire méconnue des communs. Elle fut exhumée en 1990 par Elinor Ostrom des poubelles de l’Histoire où l’avait projetée un certain biologiste Garrett Hardin par un article de 1968 : « The Tragedy of The Commons »."
+short_description: 'Voici une histoire vraie, qui commence au Moyen-Âge et est directement
+  reliée à l’essor d’Internet et du logiciel libre : l’histoire méconnue des communs.
+  Elle fut exhumée en 1990 par Elinor Ostrom des poubelles de l’Histoire où l’avait
+  projetée un certain biologiste Garrett Hardin par un article de 1968 : « The Tragedy
+  of The Commons ».'
 picture: Communs.jpg
-order: 2
-published: true
----
+order: "3"
 
+---
 Voici une histoire vraie, qui commence au Moyen-Âge et est directement reliée à l’essor d’Internet et du logiciel libre : l’histoire méconnue des communs. Elle fut exhumée en 1990 par Elinor Ostrom des poubelles de l’Histoire où l’avait projetée un certain biologiste Garrett Hardin par un article de 1968 : « The Tragedy of The Commons ». 
 
 ## Histoire et contre-histoire du mouvement des Enclosures
