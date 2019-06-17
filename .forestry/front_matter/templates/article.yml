@@ -37,3 +37,5 @@ fields:
   type: file
   hidden: false
   default: ''
+pages:
+- _articles/jardinier-e-s-du-nous -cultiver-ensemble-la-coopération.md
