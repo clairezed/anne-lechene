@@ -24,7 +24,7 @@ fields:
   default: ''
 - name: order
   label: Ordre
-  type: text
+  type: number
   hidden: false
   default: ''
 - name: icon

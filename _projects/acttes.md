@@ -1,9 +1,9 @@
 ---
 title: ACTTES
 subtitle: Tiers-veilleuse d'une recherche-action sur les Communs
-year: "2019"
+year: 2019
 web_url: 'https://cerisy-colloques.fr/territoiressolidaires2019/ '
-order: "7"
+order: 7
 icon: fa-binoculars
 color: " accent3"
 
