@@ -45,3 +45,5 @@ fields:
   name: color
   label: Classe CSS de la couleur
   description: 'accent2: orange, accent3: rouge, accent4: bleu, accent5: vert'
+pages:
+- _projects/acttes.md
