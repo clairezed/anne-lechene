@@ -2,7 +2,7 @@
 title: Bubble Daze, a global learning community of artists
 published_in: 
 publication_date: to be published
-web_url: https://docs.google.com/document/d/1QDA1NaepZrLglHzlo4u1aCq7hCwaAN7Xlqu1xTcx7qQ/edit?ts=5bb14c42#heading=h.p2yzpgg2imeq
+web_url: ''
 short_description: Bubble Daze is all about sharing passion and knowledge, performing
   together and learning from one another. A report from Bangor, North Wales.
 picture: BubbleDaze.jpg
