@@ -44,15 +44,15 @@ There are very few occasions for bubblers to meet in flesh. Bangor's gathering h
 
 ### Building a sense of belonging to a community
 
-Paola Dyboski-Bryant and Caroline Ainslie, as _Bubble Daze 5_ organizers, chose to design several high-time moments for building a strong sense of belonging, all based around a public festival. 
+Paola Dyboski-Bryant and Caroline Ainslie, as _Bubble Daze 5_ organizers, chose to design several high-time moments for building a strong sense of belonging, all based around a public festival, with performances, lectures and the _All Star_ bubble show.
 
-Paola : ‘_It was really important to us to have a way to share this incredible gathering with the wider public, and for me in particular to share my work with the local community as a way of giving back_’. The public festival with performances, lectures and the _All Star_ bubble show. Paola’s work, and gift to the bubble world, was to organise a visionary gathering of 400 local people, together with the bubble artists all making giant bubbles in Caernarfon Castle. The final gathering was on the last day before everyone went their separate ways, was a time for celebration, bubbling together, high in Snowdonia mountains around a gorgeous lake.
+Paola : ‘_It was really important to us to have a way to share this incredible gathering with the wider public, and for me in particular to share my work with the local community as a way of giving back_’.  Paola’s work, and gift to the bubble world, was to organise a visionary gathering of 400 local people, together with the bubble artists all making giant bubbles in Caernarfon Castle. The final gathering was on the last day before everyone went their separate ways, was a time for celebration, bubbling together, high in Snowdonia mountains around a gorgeous lake.
 
 Open space methods were chosen to set up a collectively self-organised schedule for the workshops, with guidance from Brian Lawrence and Eduard de Jong. It created a sense of empowerment and responsibility, leading to a powerful sense of belonging. _There are no passengers on this boat_, said Brian Lawrence introducing open space schedule building. Everyone is invited to contribute and play his singular and unique part.
 
-Circle practice has been used in several workshops. Sitting in a circle is a form of ‘social container’ in which each individual can see the face of all the others and, in turn, be seen.. It establishes a sense of equal value between all, it is a strong basis for sharing and creating a sense of belonging.
+Circle practice has been used in several workshops. Sitting in a circle is a form of ‘social container’ in which each individual can see the face of all the others and, in turn, be seen... It establishes a sense of equal value between all, it is a strong basis for sharing and creating a sense of belonging.
 
-**Generosity and free riders attitude**
+### Generosity vs free riders attitude
 
 _Giving, receiving and giving again_ is the anthropological pattern for the economy of giving (Marcel Mauss). Much in use in small human tribal communities, this social scheme is at revival with the economy of the new commons, as theorized by Michel Bauwens or Bernard Stiegler. It applies pretty well to non-physical and non rival goods such as knowledge or software.
 
@@ -60,17 +60,17 @@ _Giving_ appears in the first place... before _receiving_. What about people joi
 
 There is a tolerance in the short term, although, most particularly because more interesting things were happening elsewhere: _Some people are rude and respectless. They copy designs, texts and products. I prefer to put energy to creativity rather than into fighting._
 
-**Regulation through reputation**
+### Regulation through reputation
 
 Elinor Oström, a researcher who received a Nobel prize in economics for her work on the commons, established a series of 8 rules for a community to jointly manage a common resource. One of these rules is about having regulation specifically targeted towards free-riders.
 
 I imagine that among bubblers, regulation comes through one's reputation. There is a consensus that there is no place for copying, and everyone is invited to take inspiration to develop their own art. Nobody would like to be taken off the invitation list for the next _Bubble Daze_ edition, would they?
 
-**Competition and business coexist next to sharing**
+### Competition and business coexist next to sharing
 
 _Bubble Daze 5_ has welcomed competition as well, with a dozen of Guinness World Records broken during the last day of the public festival. Competition can have a place, and it was great to see the mix of individual and collective records that were attempted. There was also a market for buying and selling ropes, nets, sticks, soaps or bubble machines that was going on throughout the festival and workshops time in an informal way. A happy combination of competition and cooperation, sharing, making contacts and business. I wondered, what is the secret?
 
-**Very much alike a community of social innovators**
+### Very much alike a community of social innovators
 
 At this point, I tried to draw a parallel with my previous research about the learning communities of social innovators. My conclusions had settled onto 4 conditions required for such a community to maintain and thrive.
 
@@ -84,13 +84,13 @@ A community of practice or a community of learning on social innovation needs :
 
 \- The sense of belonging to a community helps keep it going in the long term by balancing out the sense of being isolated in mainstream society and culture (4)
 
-It seems to me that this amazing community of soap bubble fanciers is indeed very much like a living community of social innovators!
+It seems to me that this amazing community of soap bubble fanciers is very similar to a living community of social innovators !
 
-**Making the invisible visible**
+### Making the invisible visible
 
 _Bubbles are not what we think they are, they merely exist on the edge of what is physically possible_, says Tom Noddy during his show. Making the invisible visible, this is probably what bubbles do. Contemplating Caernarfon Castle, so full of bubbles gave me a new perception of this space full of light and wind. It gave me happiness and filled my heart with joy.
 
-This is also what open space is doing between human beings working together, peer to peer: framing the invisible in a visible frame, letting creativity and emergence take place in the middle.
+This is also what open space technology is doing between human beings working together, peer to peer: framing the invisible in a visible frame, letting creativity and emergence take place in the middle.
 
   
 I am so grateful to have lived this unique experience with the _Bubble Daze_ community. It brought me joy, I met wonderful people, and I was able to create, on these boundaries, new links between the commons, open cooperativism and art. Thank you to all the “bubbleologists” I met !
