@@ -8,7 +8,6 @@ short_description: 'L’Université du Nous (UdN) incube depuis plusieurs année
   innovant de communauté d’apprentissage entre pairs auto-organisée, pour apprendre
   ensemble à cultiver la coopération dans les organisations : Jardinier·e·s du Nous.'
 picture: ''
-published: false
 
 ---
 L’Université du Nous (UdN) incube depuis plusieurs années un projet innovant de communauté d’apprentissage entre pairs auto-organisée, pour apprendre ensemble à cultiver la coopération dans les organisations : Jardinier·e·s du Nous.
