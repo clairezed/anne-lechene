@@ -7,6 +7,7 @@ short_description: Bubble Daze is all about sharing passion and knowledge, perfo
   together and learning from one another. A report from Bangor, North Wales.
 picture: BubbleDaze.jpg
 order: "4"
+published: false
 
 ---
 ### A worldwide meeting in North Wales
@@ -17,11 +18,11 @@ As my partner in life belongs to a rare community of artists,  I happen to hang 
 
 In the last days of September, we travelled to Bangor, North Wales, where a hundred of these Bubblers gathered like migratory birds, to perform publicly in a three-day public festival and then conferred during a three day workshop to share their knowledge and practice.
 
-From Malaysia, Singapore, Argentina, Mexico and the US, from every reach of Europe and Israel and NZ. More than 20 countries were represented in this, it’s 5th edition, it included a number of free citizen of the world. Previous editions had run in Boston (2016) Copenhagen (2013) and San Francisco where it all started, and where the earliest ‘DAZE’ had been held in 1989.
+From Malaysia, Singapore, Argentina, Mexico and the US, from every reach of Europe and Israel and NZ. More than 20 countries were represented in this 5th edition. Previous editions had run in Boston (2016) Copenhagen (2013) and San Francisco where it all started, and where the earliest ‘DAZE’ had been held in 1989.
 
 From the very beginning I was dazed by understanding how open this event was : Bubble Daze is all about sharing passion and knowledge, performing together and learning from one another. Quite the opposite of magicians’ community, said to be very secret, closed and competitive.
 
-Knowledge as a common? Does it take inspiration in the Free Software Foundation, and Richard Stallman's ideas ? or the Peer to Peer Foundation? What are the unwritten rules of this tiny worldwide community ? Are they indeed actually a true community of innovators ? I decided to explore these questions whilst observing the whole process and engaging in conversations with several of my partner's colleagues, many of whom he was finally meeting for the very first time.
+Knowledge as a common? Does it take inspiration in the Free Software Foundation, and Richard Stallman's ideas ? or the Peer to Peer Foundation? What are the unwritten rules of this tiny worldwide community ? Are they actually a true community of innovators ? I decided to explore these questions whilst observing the whole process and engaging in conversations with several of my partner's colleagues, many of whom he was finally meeting for the very first time.
 
 What I was to discover during these 6 days was as fascinating as the bubbles themselves.
 
@@ -91,5 +92,4 @@ _Bubbles are not what we think they are, they merely exist on the edge of what i
 
 This is also what open space technology is doing between human beings working together, peer to peer: framing the invisible in a visible frame, letting creativity and emergence take place in the middle.
 
-  
 I am so grateful to have lived this unique experience with the _Bubble Daze_ community. It brought me joy, I met wonderful people, and I was able to create, on these boundaries, new links between the commons, open cooperativism and art. Thank you to all the “bubbleologists” I met !
