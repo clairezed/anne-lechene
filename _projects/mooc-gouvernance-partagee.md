@@ -5,7 +5,7 @@ year: 2017 et 2019
 web_url: https://colibris-universite.org/
 order: 4
 icon: fa-atom
-color: accent2
+color: accent4
 
 ---
 En 2017, le MOOC Gouvernance partagée co-produit par l’Université du Nous et Colibris est une première mondiale. 22 000 participants s’embarquent depuis 56 pays, accueillis par une vidéo introductive de Frederic Laloux.
