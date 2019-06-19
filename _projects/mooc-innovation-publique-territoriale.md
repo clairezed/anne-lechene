@@ -1,9 +1,9 @@
 ---
 title: MOOC Innovation publique territoriale
 subtitle: Animation de communauté et soutien pédagogique
-year: 2018
+year: "2018"
 web_url: https://www.fun-mooc.fr/courses/course-v1:CNFPT+87016+session01/about
-order: 2
+order: 7
 icon: fa-laptop-code
 color: accent4
 
