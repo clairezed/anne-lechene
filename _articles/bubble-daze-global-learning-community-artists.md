@@ -1,8 +1,8 @@
 ---
 title: Bubble Daze, a global learning community of artists
-published_in: 
-publication_date: to be published
-web_url: ''
+published_in: Wiki Soap Bubble Fanciers
+publication_date: juillet 2019
+web_url: https://soapbubble.fandom.com/wiki/Soap_Bubble_Wiki
 short_description: Bubble Daze is all about sharing passion and knowledge, performing
   together and learning from one another. A report from Bangor, North Wales.
 picture: BubbleDaze.jpg
