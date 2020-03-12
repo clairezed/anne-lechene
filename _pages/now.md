@@ -7,7 +7,7 @@ permalink: "/maintenant"
 ---
 ### SMART in Progress
 
-J'accompagne les coopérateurs parisiens de [SMART France](https://www.smartfr.fr/) dans la préparation de recommandations pour l'assemblée générale sur la gouvernance coopérative de leur entreprise partagée : quatre ateliers en intelligence collective et un dispositif de partage avec les bureaux de Rennes et Montpellier.
+J'accompagne les coopérateurs parisiens de [SMART France](https://www.smartfr.fr/smart-in-progress/) dans la préparation de recommandations pour l'assemblée générale sur la gouvernance coopérative de leur entreprise partagée : quatre ateliers en intelligence collective et un dispositif de partage avec les bureaux de Rennes et Montpellier.
 
 ### Semences paysannes
 
