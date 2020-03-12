@@ -5,18 +5,20 @@ subtitle: Ateliers, expertises, coups de main
 permalink: "/maintenant"
 
 ---
-### Equitable et bio
+### SMART in Progress
 
-A l'assemblée générale de l'association [BIOPARTENAIRE](http://www.biopartenaire.com/), j'anime un atelier en intelligence collective sur un sujet transversal qui concerne la trentaine de producteurs bio et engagés réunis dans cette association.
+J'accompagne les coopérateurs parisiens de [SMART France](https://www.smartfr.fr/) dans la préparation de recommandations pour l'assemblée générale sur la gouvernance coopérative de leur entreprise partagée : quatre ateliers en intelligence collective et un dispositif de partage avec les bureaux de Rennes et Montpellier.
 
-### SMART in progress
+### Semences paysannes
 
-A la pré-assemblée générale (Paris) de la CAE [SMART France](https://www.smartfr.fr/), je co-anime un atelier en intelligence collective visant à mobiliser les coopérateurs dans des ateliers de co-construction.
+Je co-facilite une journée de bilan pour un groupe de semenciers bio : enquête appréciative, feuille de route et célébration !
 
-### Ruralité et lieux de musiques actuelles
+### Forum ouvert 
 
-Je participe aux journées sur la ruralité organisées par la Fédération des lieux de musiques actuelles ([FEDELIMA](http://www.fedelima.org/)), lors d'un atelier sur les nouvelles formes de gouvernance permettent davantage de coopération dans des projets de territoire.
+ [L'Université de l'innovation publique territoriale]() 2020 se déroule cette année en mode Forum ouvert  sur 11 sites simultanément. J'accompagne les équipes-hôtes à travers une formation-action  et ferai partie de l'une d'elles le jour J en juillet.
 
-### Tiers-lieux en réseaux
+### Masterclass
 
-A [l'Université de l'innovation publique territoriale]() (Cluny, 9-11 juillet 2019), je facilite un défi territorial porté par le PETR Mâconnais-Sud Bourgogne, pour accélérer le soutien et la mise en reseaux des tiers-lieux émergents du territoire.
+Pour une Masterclass "Dramaturgie et Bulles", j'accompagne [Laetitia Sioen]() et les performers dans un set créatif bilingue.
+
+ 
