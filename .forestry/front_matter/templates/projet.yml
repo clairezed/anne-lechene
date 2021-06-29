@@ -47,5 +47,6 @@ fields:
   description: 'accent2: orange, accent3: rouge, accent4: bleu, accent5: vert'
 pages:
 - _projects/acttes.md
+- _projects/ecolieux-et-communs.md
 - _projects/forum-ouvert-sur-l-alimentation.md
 - _projects/riposte-creative-territoriale.md

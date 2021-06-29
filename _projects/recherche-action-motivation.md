@@ -3,7 +3,7 @@ title: D.U. Transition éducative (CRI)
 subtitle: Une recherche-action sur la motivation et le pouvoir d’agir
 year: 2016-2017
 web_url: https://cri-paris.org/du/du-acteur-transition-educative/
-order: 6
+order: 10
 icon: fa-binoculars
 color: accent2
 

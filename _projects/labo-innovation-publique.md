@@ -3,7 +3,7 @@ title: Labo d'innovation publique CNFPT
 subtitle: Animation d’ateliers de co-construction et de réseau d'acteurs
 year: depuis fin 2016
 web_url: https://universiteinnovationpublique.wordpress.com/
-order: 5
+order: 9
 icon: fa-spinner
 color: accent5
 
