@@ -3,7 +3,7 @@ title: Forum ouvert local sur l'alimentation
 subtitle: Formation de l'équipe organisatrice et facilitation
 year: 2020-2021
 web_url: https://forum-ouvert-mesnay.jimdofree.com/
-order: 8
+order: 2
 icon: fa-leaf
 color: accent5
 

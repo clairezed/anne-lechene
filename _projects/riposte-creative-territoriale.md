@@ -3,10 +3,9 @@ title: Riposte créative territoriale
 subtitle: Apprendre ensemble de la crise, des crises
 year: "2021"
 web_url: https://ripostecreativeterritoriale.xyz/?Cercle-ComprendreEtAgir
-order: 9
+order: 3
 icon: fa-atom
 color: " accent3"
-published: false
 
 ---
 
