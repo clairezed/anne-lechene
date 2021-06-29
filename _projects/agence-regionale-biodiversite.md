@@ -3,7 +3,7 @@ title: Agence Régionale de la Biodiversité
 subtitle: En chemin vers la gouvernance partagée
 year: "2019"
 web_url: 'https://www.biodiversite-centrevaldeloire.fr/ '
-order: 2
+order: 6
 icon: fa-frog
 color: accent5
 

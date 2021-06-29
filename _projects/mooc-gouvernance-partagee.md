@@ -3,7 +3,7 @@ title: MOOC Gouvernance partagée
 subtitle: Les Défis du faire ensemble, un parcours collaboratif ancré dans l’expérience
 year: 2017 et 2019
 web_url: https://colibris-universite.org/
-order: 4
+order: 8
 icon: fa-atom
 color: accent4
 

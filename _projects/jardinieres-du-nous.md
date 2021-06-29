@@ -3,7 +3,7 @@ title: Jardinier·e·s du Nous
 subtitle: Des communautés apprenantes et des communs pérennes sur le faire ensemble
 year: depuis 2017
 web_url: https://grand-jardin.jardiniersdunous.org/wakka.php?wiki=PagePrincipale
-order: 3
+order: 5
 icon: fa-leaf
 color: accent2
 
