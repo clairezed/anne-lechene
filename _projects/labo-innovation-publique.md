@@ -8,4 +8,4 @@ icon: fa-spinner
 color: accent5
 
 ---
-Je participe au co-design des Universités de l’innovation Publique territoriale, à l’invitation du Labo d’innovation pédagogique du CNFPT et participe au réseau de soutien aux communautés d’innovation territoriale qui y est incubé (Les APIS).
+Je participe au co-design des Universités de l’innovation Publique territoriale (Cluny), aux sessions du Labo d’innovation pédagogique du CNFPT et participe aux réseaux de soutien aux communautés d’innovation territoriale qui y sont incubés.
