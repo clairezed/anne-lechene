@@ -3,10 +3,9 @@ title: Ecolieux et Communs
 subtitle: 'Recherche-action participative '
 year: 2021-2022
 web_url: https://cooperative-oasis.org/wiki/?PagePrincipale
-order: 10
+order: 1
 icon: fa-binoculars
 color: accent2
-published: false
 
 ---
 La Coopérative Oasis me confie une étude sur la contribution des dynamiques de Communs qui sont en émergence dans les écolieux du réseau.
