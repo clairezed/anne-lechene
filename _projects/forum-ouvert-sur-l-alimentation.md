@@ -6,7 +6,6 @@ web_url: https://forum-ouvert-mesnay.jimdofree.com/
 order: 8
 icon: fa-leaf
 color: accent5
-published: false
 
 ---
 Et si agir localement sur notre alimentation devenait possible ?
