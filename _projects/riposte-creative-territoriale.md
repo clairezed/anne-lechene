@@ -5,7 +5,7 @@ year: "2021"
 web_url: https://ripostecreativeterritoriale.xyz/?Cercle-ComprendreEtAgir
 order: 3
 icon: fa-atom
-color: " accent3"
+color: accent4
 
 ---
 
