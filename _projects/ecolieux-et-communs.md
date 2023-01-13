@@ -2,26 +2,21 @@
 title: Ecolieux et Communs
 subtitle: 'Recherche-action participative '
 year: 2021-2022
-web_url: https://cooperative-oasis.org/wiki/?PagePrincipale
+web_url: https://drive.chenevre.org/s/rLpTbcKaEXmnXR8
 order: 1
 icon: fa-binoculars
 color: accent2
 
 ---
-La Coopérative Oasis me confie une étude sur la contribution des dynamiques de Communs qui sont en émergence dans les écolieux du réseau.
+J'ai réalisé pour la Coopérative Oasis  une recherche-action sur les dynamiques de Communs dans un échantillon d'écolieux et habitats participatifs, et sur leur capacité à contribuer à la transition écologique et sociale.
 
-L'intention de cette recherche-action est d'aider les acteurs à s'aider eux-mêmes :
+Les grandes thématiques explorées :  
+\- Faire communauté  
+\- Agir ensemble et travailler  
+\- Rapport à la propriété  
+\- Rapport au territoire  
+\- Autres qu'humains et générations futures
 
-\- en se posant les bonnes questions dans le développement de leurs projets concrets autour des Communs
-
-\- en devenant capables d’auto-évaluer les points forts, les points faibles, les points aveugles et les zones de flou de leur agir collectif autour des Communs.
-
-Les grandes thématiques qui seront explorées :
-
-\- Faire communauté
-
-\- Travail du commun
-
-\- Dissociation propriété/usages
-
-\- Prise en compte des non-humains et des générations futures
+Les livrables sont disponibles :  
+\- un long article (97 pages) et son résumé (10 pages) sur le site de [l'Observatoire des Oasis ](https://cooperative-oasis.org/decouvrir/lobservatoire-des-oasis/)  
+\- un atelier participatif sur les communs, permettant à un collectif d'habitants ou un tiers-lieu de s'auto-positionner dans ses pratiques de communs (grille d'Elinor Ostrom) et d'identifier ses points forts, ses points faibles, ses zones de flou et ses zones d'invisibilisation.
