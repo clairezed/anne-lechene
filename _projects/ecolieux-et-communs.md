@@ -20,3 +20,5 @@ Les grandes thématiques explorées :
 Les livrables sont disponibles :  
 \- un long article (97 pages) et son résumé (10 pages) sur le site de [l'Observatoire des Oasis ](https://cooperative-oasis.org/decouvrir/lobservatoire-des-oasis/)  
 \- un atelier participatif sur les communs, permettant à un collectif d'habitants ou un tiers-lieu de s'auto-positionner dans ses pratiques de communs (grille d'Elinor Ostrom) et d'identifier ses points forts, ses points faibles, ses zones de flou et ses zones d'invisibilisation.
+
+Le [replay du webinaire du 11/01/23  (30 mn)](https://video.colibris-outilslibres.org/w/m83SQN6EJqtpSFxSmQ5WPN?start=6s) avec les principaux résultats.
